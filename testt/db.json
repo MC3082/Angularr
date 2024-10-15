@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "id": "3",
+      "username": "user3",
+      "password": "password3"
+    }
+  ],
+  "clients": [
+    {
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "email": "mr@gmail.coms",
+      "userid": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Giulia",
+      "cognome": "Bianchi",
+      "email": "gb@gmail.com",
+      "userid": 2
+    },
+    {
+      "id": "3",
+      "nome": "Luca",
+      "cognome": "Verdi",
+      "email": "lv@gmail.com",
+      "userid": 1
+    },
+    {
+      "id": "4",
+      "nome": "Anna",
+      "cognome": "Neri",
+      "email": "an@gmail.com",
+      "userid": 3
+    }
+  ]
+}
